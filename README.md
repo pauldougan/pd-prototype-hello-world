@@ -1,9 +1,4 @@
-# Hello world
-
-- [x] Initialise with a prototype
-- [x] Add plug-ins 
-- [ ] add example pages
-- [ ] add README
+# Hello World
 
 # Resources
 - https://prototype-kit.service.gov.uk/docs/
