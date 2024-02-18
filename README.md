@@ -1,7 +1,7 @@
 # Hello world
 
 - [x] Initialise with a prototype
-- [ ] Add plug-ins 
+- [x] Add plug-ins 
 - [ ] add example pages
 - [ ] add README
 
